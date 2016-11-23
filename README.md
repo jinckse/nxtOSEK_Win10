@@ -14,4 +14,4 @@ Procedure:
 
 6. Place cygintl-3.dll in C:\cygwin\bin directory
 
-7. Place sg.exe in C:\nxtOSEK\toppers_osek_sg directory
+7. Place sg.exe in C:\nxtOSEK\toppers_osek\sg directory
